@@ -54,6 +54,6 @@ python main.py
 
 声明：本项目仅为学习目的
 
-项目原仓库地址：https://github.com/abdullahtarek/tennis_analysis
-项目代码逐行复现视频：https://www.youtube.com/watch?v=L23oIHZE14w&t=14900s
-感谢abdullahtarek创建的运动视频分析代码库
+- 项目原仓库地址：https://github.com/abdullahtarek/tennis_analysis
+- 项目代码逐行复现视频：https://www.youtube.com/watch?v=L23oIHZE14w&t=14900s
+- 感谢abdullahtarek创建的运动视频分析代码库
