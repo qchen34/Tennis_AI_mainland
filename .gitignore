@@ -180,7 +180,7 @@ $RECYCLE.BIN/
 .nfs*
 
 # AI/ML specific
-*.pkl
+
 *.pickle
 *.h5
 *.hdf5
@@ -238,10 +238,7 @@ logs/
 *.log
 
 # Output directories
-output_videos/
-runs/
-checkpoints/
-results/
+
 
 # Temporary files
 temp/
