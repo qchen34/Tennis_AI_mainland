@@ -202,7 +202,7 @@ models/*.ckpt
 models/*.safetensors
 
 # Video files
-*.mp4
+
 *.avi
 *.mov
 *.mkv
@@ -220,7 +220,7 @@ models/*.safetensors
 # Image files (if not needed in repo)
 *.jpg
 *.jpeg
-*.png
+
 *.gif
 *.bmp
 *.tiff
