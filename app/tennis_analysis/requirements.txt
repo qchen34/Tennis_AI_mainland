@@ -1,0 +1,26 @@
+# 网球AI分析项目依赖包
+# 基础数据处理
+numpy>=2.3.0
+pandas>=2.3.0
+
+# 计算机视觉和图像处理
+opencv-python>=4.8.0
+Pillow>=11.2.0
+
+# 深度学习框架
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# 数据可视化
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# 开发工具
+jupyter>=1.1.0
+ipykernel>=6.29.0
+
+# 网络请求
+requests>=2.32.0
+
+lap>=0.5.12
